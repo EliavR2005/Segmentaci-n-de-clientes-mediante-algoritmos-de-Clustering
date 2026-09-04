@@ -2,9 +2,6 @@
 
 ## Algoritmos de aprendizaje automático
 
-**Alumno:** Eliab Reyes Olvera
-**Docente:** Frederick Timoteo Castillo Pedraza
-**Fecha de entrega:** 09/09/2026
 
 ---
 
