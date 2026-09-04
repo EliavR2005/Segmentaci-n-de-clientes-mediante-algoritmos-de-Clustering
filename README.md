@@ -211,6 +211,6 @@ El Notebook contiene el código ejecutado, las gráficas generadas y los resulta
 
 ## Autor
 
-**Eliab Reyes Olvera**
+**Eliab**
 
 Proyecto realizado como parte de la actividad **Segmentación de clientes mediante algoritmos de Clustering** de la materia **Algoritmos de aprendizaje automático**.
